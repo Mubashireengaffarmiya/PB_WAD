@@ -4,6 +4,6 @@ This repo is for my portfolio and GitHub practice.
 
 
 ## Collaboration Log
-- Worked with partner via Live Share
+- Worked with partner via Live Share.
 - Added greet() function together
 - Practiced commits and GitLens history
